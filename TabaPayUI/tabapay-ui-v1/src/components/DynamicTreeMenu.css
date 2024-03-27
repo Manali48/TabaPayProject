@@ -1,0 +1,30 @@
+.custom-modal {
+    position: absolute;
+    left: 20%;
+    top: 0;
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    background-color: #fff;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .modal-title {
+    /* Add styles for modal title here */
+  }
+  
+  .modal-description {
+    /* Add styles for modal description here */
+  }
+  
+  .close-button {
+    /* Add styles for close button here */
+  }
+  
