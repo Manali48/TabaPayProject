@@ -1,0 +1,54 @@
+/* TreeMenu.css */
+body {
+    background-color: #fff;
+  }
+  
+  .tree-node {
+    cursor: pointer;
+    margin-top: 20px;
+    color: rgb(5, 6, 63);
+    margin-left: 10px;
+  }
+  
+  .tree-node-icon {
+    margin-right: 10px;
+  }
+  
+  .tree-node-label {
+    display: flex;
+    align-items: center;
+    width : 30%;
+  }
+  
+  .tree-node-content {
+    margin-left: 20px;
+    width: 40vw;
+    margin-right: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdan
+  }
+  .modal-container {
+    margin-left: 30%;
+    margin-right: 2%;
+    width: 68%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    position: relative; 
+    background-color: #e3e3e3;
+    padding: 20px;
+    margin-top: 320px;
+    margin-bottom: 350px;
+    width: 100%;
+    height: 65vh;
+  }
+  
+  .modal-button {
+    position: absolute;
+    bottom: 20px; 
+    right: 20px;
+  }
+  
+  

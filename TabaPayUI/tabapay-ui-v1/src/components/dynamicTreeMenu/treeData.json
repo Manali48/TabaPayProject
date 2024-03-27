@@ -1,0 +1,49 @@
+{
+    "Root": {
+      "label": "Root",
+      "children": {
+        "Parent A": {
+          "label": "Parent A",
+          "children": {
+            "Child A1": {
+              "label": "Child A1"
+            },
+            "Child Parent A2": {
+              "label": "Child Parent A2",
+              "children": {
+                "Child A21": {
+                  "label": "Child A21"
+                },
+                "Child A22": {
+                  "label": "Child A22"
+                }
+              }
+            }
+          }
+        },
+        "Parent B": {
+          "label": "Parent B",
+          "children": {
+            "Child B1": {
+              "label": "Child B1"
+            },
+            "Child B2": {
+              "label": "Child B2"
+            },
+            "Child Parent B3": {
+              "label": "Child Parent B3",
+              "children": {
+                "Child B3": {
+                  "label": "Child B3"
+                },
+                "Child B4": {
+                  "label": "Child B4"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  
