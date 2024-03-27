@@ -1,7 +1,7 @@
 # Tabpapay UI v1
 
 ## Overview
-This project is a user interface (UI) implementation for Tabpapay version 1.
+This project is a dynamic tree view that allows users to navigate through a hierarchical structure. Clicking on the child nodes opens a modal with additional information or actions.
 
 ## Getting Started
 To run the project, follow these steps:
